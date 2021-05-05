@@ -28,4 +28,4 @@ npm i -g @lv0gun9/rr
 You can do it.
 
 ### 5. Open your terminal and type `rr` and press the ENTER button.
-It will shows the you pull request URL.
+It will show to you the pull request URL.
